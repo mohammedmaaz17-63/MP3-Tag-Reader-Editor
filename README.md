@@ -73,6 +73,14 @@ Supports editing:
 
 ---
 
+## Note
+
+MP3 sample files are excluded from this repository to avoid copyright issues.
+
+If required, feel free to contact me for a sample test file to run the project.
+
+---
+
 # Author
 
 Mohammed Maaz
